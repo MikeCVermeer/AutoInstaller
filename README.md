@@ -37,7 +37,7 @@ This project was initially meant for private use, but I decided to make it publi
 
 ## Usage:
 
-1. Extract `AutoInstaller.zip` and then launch AutoInstaller.exe with administrative privileges.
+1. Extract `AutoInstaller.zip` and then launch `AutoInstaller.exe` with administrative privileges.
 2. The program will present a list of software available for installation.
 3. Select the desired software by entering the corresponding number.
 4. The program will download and start the installation process for the chosen software.
