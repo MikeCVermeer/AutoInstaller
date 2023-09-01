@@ -29,15 +29,15 @@ This project was initially meant for private use, but I decided to make it publi
 ## Installation:
 
 1. Go to the [Releases section](https://github.com/MikeCVermeer/AutoInstaller/releases) of the AutoInstaller GitHub repository.
-2. Download the latest `AutoInstaller.exe` file from the latest release.
+2. Download the latest `Auto-Installer.zip` file from the latest release.
 3. Save it to a directory of your choice.
-4. Right-click on `AutoInstaller.exe` and choose "Run as administrator" to launch the program with the necessary permissions.
+4. Extract `Auto-Installer.zip` and then launch `Auto-Installer.exe` with administrative privileges.
 
 *Note: Always ensure you're downloading software from trusted sources. Only download releases from the official AutoInstaller repository.*
 
 ## Usage:
 
-1. Extract `AutoInstaller.zip` and then launch `AutoInstaller.exe` with administrative privileges.
+1. Extract `Auto-Installer.zip` and then launch `Auto-Installer.exe` with administrative privileges.
 2. The program will present a list of software available for installation.
 3. Select the desired software by entering the corresponding number.
 4. The program will download and start the installation process for the chosen software.
