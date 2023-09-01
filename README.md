@@ -24,7 +24,7 @@ This project was initially meant for private use, but I decided to make it publi
 
 ## Prerequisites:
 
-- Windows 10 / 11 version 1803 or later.
+- Windows 10 / 11 version 1803 or later ( 64-bit ).
 
 ## Installation:
 
